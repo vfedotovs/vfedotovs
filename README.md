@@ -5,7 +5,6 @@ Senior Technical Support Engineer
 ---------------------------------
 
 * 🌍  I'm based in Cork, Ireland
-* ✉️  You can contact me at [vfedotovs@outlook.com](mailto:vfedotovs@outlook.com)
 * 🚀  I'm currently working on [ss.lv Web Scraper](http://github.com/vfedotovs/sslv_web_scraper)
 * 🤝  I'm open to collaborating on Interesting projects
 
