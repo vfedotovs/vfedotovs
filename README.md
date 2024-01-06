@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valentins Fedotovs
 ==========================================================================================================================================
 
-Senior Technical Support Engineer
 ---------------------------------
-
-* 🌍  I'm based in Cork, Ireland
 * 🚀  I'm currently working on [ss.lv Web Scraper](http://github.com/vfedotovs/sslv_web_scraper)
 * 🤝  I'm open to collaborating on Interesting projects
 
