@@ -1,14 +1,19 @@
-Hi! My name is Valentins Fedotovs
-==========================================================================================================================================
+Hey, I'm  Valentine.
 
----------------------------------
-* 🚀  I'm currently working on [SS.LV Web Scraper](http://github.com/vfedotovs/sslv_web_scraper)
-* 🤝  I'm open to collaborating on Interesting projects
+Currenty working @ [VMware by Broadcom](https://www.vmware.com/)
+ 
 
 
-### Badges
+Building   
+[ss.lv Web Scraper](http://github.com/vfedotovs/sslv_web_scraper) 
+![GitHub Repo stars](https://img.shields.io/github/stars/vfedotovs/sslv_web_scraper?style=flat) - Web Sraper that helps automate property advert scraping and filtering from classifieds and emails results and stores scraped data in database.   
+[daft.ie Web Scraper/Analyzer](https://github.com/vfedotovs/python-daft-analyser) ![GitHub Repo stars](https://img.shields.io/github/stars/vfedotovs/python-daft-analyser?style=flat) - This project is an independent tool for personal data analysis and is not affiliated with, endorsed by, or connected to Daft.ie in any way.   
+[esxtop-batch-data-visualizer](https://github.com/vfedotovs/esxtop-batch-data-visualizer) ![GitHub Repo stars](https://img.shields.io/github/stars/vfedotovs/esxtop-batch-data-visualizer?style=flat) - Visualize performance data from esxtop batch mode CSV exports.  
+[vsan-tools](https://github.com/vfedotovs/vsan-tools) ![GitHub Repo stars](https://img.shields.io/github/stars/vfedotovs/vsan-tools?style=flat) - CLI utility helps extract URL links for VSAN HCL based on device PCID from all.json file
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vfedotovs"><img src="https://github-readme-stats.vercel.app/api?username=vfedotovs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vfedotovs's GitHub stats" /></a>
+
+
+
+
 
